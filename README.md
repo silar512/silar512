@@ -1,4 +1,4 @@
-# Hi, I'm Shaik John Salaar 👋
+# Hi, I'm Shaik Silar 👋
 
 🎓 B.Tech Student | Aspiring DevOps & Cloud Engineer  
 🚀 Preparing for Product-Based Companies  
