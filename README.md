@@ -1,84 +1,199 @@
 # Hi, I'm Shaik Silar 👋
 
-🎓 B.Tech Student | Aspiring DevOps & Cloud Engineer  
-🚀 Preparing for Product-Based Companies  
-💻 Strong in Linux, Docker, Python Automation  
+🚀 Cloud & DevOps Enthusiast | AWS | Linux | Docker | Jenkins | Python | Automation
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate fresher focused on Cloud, DevOps, and Automation.  
-I enjoy building real-world production-like projects using AWS, Docker, and Linux.
-
-Currently working on:
-- 🚀 AWS EC2 Deployments
-- 🐳 Dockerized Applications
-- 🖥 Linux Monitoring & Automation
-- 🔄 CI/CD Fundamentals
+- 🎓 B.Tech Computer Science Engineering Student (2026)
+- ☁️ Passionate about Cloud Computing and DevOps
+- 🐧 Strong in Linux Administration and Troubleshooting
+- 🚀 Hands-on experience with AWS Cloud Services
+- 🔧 Interested in Infrastructure Automation and CI/CD
+- 📚 Currently learning Kubernetes, Terraform, and Advanced DevOps
+- 🎯 Preparing for Cloud Support Engineer, DevOps Engineer, AWS Support Engineer, and Site Reliability Engineer (SRE) roles
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM)
+### Cloud Technologies
+- Amazon Web Services (AWS)
+- Amazon EC2
+- Amazon S3
+- AWS IAM
+- AWS CloudWatch
+- AWS CLI
+
+### DevOps & Automation
 - Docker
+- Jenkins
+- CI/CD Pipelines
+- Git
+- GitHub
+- Bash Scripting
+- Shell Scripting
+
+### Operating Systems
 - Linux
-- Git & GitHub
-- CI/CD Basics
+- Ubuntu
+- Unix
+- Windows
 
-**Programming**
-- Python (Automation, Log Parsing, Monitoring Scripts)
+### Programming
+- Python
+- Bash
 
-**Core Skills**
-- Process Monitoring
-- Cron Jobs
-- Log Analysis
-- System Troubleshooting
+### Monitoring & Support
+- CloudWatch Monitoring
+- Incident Management
+- Application Support
+- Production Support
+- Root Cause Analysis (RCA)
+- Troubleshooting
+- Monitoring & Logging
+
+### Networking
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Network Troubleshooting
+
+### Databases
+- MySQL
+
+### Other Technologies
+- ServiceNow
+- REST APIs
+- JSON
+- XML
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 EC2 + Docker Deployment
-- Launched AWS EC2 instance
-- Dockerized application using Dockerfile
-- Implemented port mapping & container management
-- Simulated real production deployment
+## ☁️ AWS Cloud Infrastructure Automation Project
 
-### 🔹 Linux Monitoring Automation Script
-- Monitors CPU, Memory, Disk usage
-- Auto-alert when usage exceeds threshold
-- Real-world DevOps scenario implementation
+### Technologies
+AWS EC2 | AWS S3 | IAM | Linux | Apache | Shell Scripting | AWS CLI
 
-### 🔹 Python Log Parser
-- Parses large log files
-- Extracts errors & critical warnings
-- Generates structured report
+### Features
+- Hosted Website on AWS EC2
+- Configured IAM Users and Roles
+- Automated Backup from EC2 to S3
+- Configured Apache Web Server
+- AWS CLI Administration
+- Linux Server Management
+- Monitoring and Troubleshooting
+
+🔗 Repository:
+https://github.com/silar512/aws-ec2-s3-iam-project
 
 ---
 
-## 📈 What I'm Preparing For
+## 🔄 CI/CD Pipeline Automation using Jenkins & Docker
 
-- DevOps Engineer Roles
+### Technologies
+Jenkins | Docker | GitHub | Python Flask | Linux
+
+### Features
+- Jenkins Declarative Pipeline
+- Automated Build Process
+- Docker Image Creation
+- Automated Deployment
+- GitHub Integration
+- CI/CD Workflow Automation
+
+🔗 Repository:
+https://github.com/silar512/devops
+
+---
+
+## 🐧 Linux System Monitoring & Health Check Automation
+
+### Technologies
+Linux | Ubuntu | Bash | Docker | GitHub
+
+### Features
+- CPU Monitoring
+- Memory Monitoring
+- Disk Usage Monitoring
+- Docker Monitoring
+- System Health Reports
+- Automated Troubleshooting Support
+
+🔗 Repository:
+https://github.com/silar512/linux-monitoring-project
+
+---
+
+## 📜 Certifications
+
+✅ AWS Cloud Computing – APSSDC
+
+✅ Cyber Security & Ethical Hacking Internship – Datavalley
+
+✅ NPTEL – Software Testing
+
+✅ SWAYAM – Fundamentals of Computer Systems
+
+✅ Introduction to Artificial Intelligence – LinkedIn Learning
+
+✅ ISRO World Space Week 2024
+
+✅ NCC Combined Annual Training Camp (CATC-IV)
+
+✅ Startup Business Management Program
+
+---
+
+## 🏆 Achievements
+
+- 📄 Presented Research Paper at IEEE GCAT 2025
+- 🚀 Volunteer at ISRO World Space Week 2024
+- 🎖️ NCC Cadet – 23 Andhra Battalion NCC
+- ☁️ AWS Cloud & DevOps Enthusiast
+- 💻 Active GitHub Contributor
+
+---
+
+## 📈 Current Learning
+
+- Kubernetes
+- Terraform
+- Ansible
+- AWS Advanced Services
+- Site Reliability Engineering (SRE)
+- Cloud Security
+- DevOps Best Practices
+
+---
+
+## 🎯 Career Interests
+
 - Cloud Support Engineer
+- AWS Support Engineer
+- DevOps Engineer
+- Linux Administrator
+- Cloud Operations Engineer
 - Site Reliability Engineer (SRE)
-- Product-Based Company Interviews
+- Application Support Engineer
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: silarpokemon@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/shaik-silar  
+📧 Email: shaiksilar.cloud@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/shaiksilar/
+
+🐙 GitHub:
+https://github.com/silar512
+
+📍 Bengaluru, Karnataka, India
 
 ---
 
-## 💡 Career Goal
-
-To become a highly skilled DevOps Engineer capable of designing scalable, reliable, and automated cloud infrastructure.
-
----
-
-⭐ If you like my work, feel free to connect or collaborate!
+⭐ If you like my projects, don't forget to star the repositories!
