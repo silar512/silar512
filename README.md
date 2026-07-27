@@ -37,15 +37,15 @@
 
 ## 🚀 Featured Production Repositories
 
-### ☁️ [AWS Cloud Infrastructure Automation Project](https://github.com)
+### ☁️ [AWS Cloud Infrastructure Automation Project](https://github.com/silar512/silar512-aws-web-server-monitoring-incident-response-lab)
 * **Stack:** AWS EC2 | AWS S3 | IAM Policies | Linux Admin | Apache | Shell Scripting | AWS CLI
 * **Core Delivery:** Deployed a public web infrastructure on EC2, locked down system visibility using restrictive IAM Roles, and engineered automated object backup workflows parsing directly to target Amazon S3 storage buckets via cron.
 
-### 🔄 [CI/CD Pipeline Automation using Jenkins & Docker](https://github.com)
+### 🔄 [CI/CD Pipeline Automation using Jenkins & Docker](https://github.com/silar512/Browser)
 * **Stack:** Jenkins Declarative Pipelines | Docker Engine | Python Flask Engine | GitHub Webhooks | Linux
 * **Core Delivery:** Formulated a complete software build automation pipeline that catches GitHub commits, containerizes the Python Flask microservice using isolated multi-stage Docker images, and deploys locally to minimize system downtime.
 
-### 🐧 [Linux System Monitoring & Health Check Automation](https://github.com)
+### 🐧 [Linux System Monitoring & Health Check Automation](https://github.com/silar512/linux-monitoring-project)
 * **Stack:** Linux Administration | Ubuntu | Bash Utilities | Docker Daemon Auditing | GitHub
 * **Core Delivery:** Created custom monitoring shell scripts using native utilities (`df`, `top`, `free`) to parse threshold alerts for CPU over-utilization, memory exhaustion, drive limits, and container runtime states.
 
